@@ -7,7 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2004shweta&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7274v" /> </p>
  -->
-- 🌱 I’m currently learning **ReactJs**
+ 
+- 🌱 I’m currently learning ReactJs
 
 - 💬 Ask me about **Java,DSA**
 
@@ -17,10 +18,10 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 
 
-<a href="https://www.linkedin.com/in/harsh0204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh vardhan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rane.harsh_01/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhan7274" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jaiswalshweta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaiswalshweta" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/harshvardehxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshvardhanxi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh0204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh vardhan" height="80" width="90" /></a>
+<a href="https://www.instagram.com/rane.harsh_01/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhan7274" height="80" width="90" /></a>
+<a href="https://www.leetcode.com/harshvardhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshvardhan" height="80" width="90" /></a>
+<a href="https://www.geeksforgeeks.org/user/harshvardehxi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshvardhanxi" height="80" width="90" /></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
